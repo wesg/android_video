@@ -16,3 +16,7 @@ bin/org/example/video/R$attr.class
 bin/classes.dex
 
 bin/android_video.apk
+
+src/org/example/video/Video.java
+
+bin/org/example/video/R$id.class
